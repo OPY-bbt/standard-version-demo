@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/OPY-bbt/standard-version-demo/compare/v1.1.0...v1.1.1) (2020-02-11)
+
+
+### Bug Fixes
+
+* hi ([a72ec83](https://github.com/OPY-bbt/standard-version-demo/commit/a72ec839b33bfef66f3f127f77a87b65e15c025a))
+
 ## [1.1.0](https://github.com/OPY-bbt/standard-version-demo/compare/v1.0.1...v1.1.0) (2020-02-11)
 
 
