@@ -1,1 +1,1 @@
-console.log("perf");
+console.log("perf test");
