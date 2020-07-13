@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/OPY-bbt/standard-version-demo#readme",
   "devDependencies": {
-    "standard-version": "^7.1.0"
+    "standard-version": "^8.0.1"
   },
   "standard-version": {
     "types": [
